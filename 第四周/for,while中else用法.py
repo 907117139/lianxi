@@ -4,5 +4,4 @@ for n in range(2,10):
             print(n,'equal',x,'*',n//x)
             break
     else:
-
-        print(n,'is a prime number')
+            print(n,'is a prime number')
